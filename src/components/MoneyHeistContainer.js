@@ -1,10 +1,12 @@
 import React from 'react'
 import SectionA from './SectionA'
+import MoenyHeistList from '../components/MoenyHeistList'
 
 function MoneyHeistContainer() {
     return (
         <div className="money-heist-container">
-            <SectionA />            
+            <SectionA />    
+            <MoenyHeistList />        
         </div>
     )
 }
