@@ -1,3 +1,10 @@
 .card-image{
     width: 33%;
 }
+
+.card-wrapper{
+    display: flex;
+    position: relative;
+    left: 2.5%;
+    margin: 1%;
+}
