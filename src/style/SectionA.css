@@ -1,0 +1,26 @@
+.sectionA-article{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.group-img{
+    width: 15%;
+}
+
+.sectionA-header{
+    padding: 5%;
+}
+
+.sectionA-footer{
+    background-color: #373a3c;
+    font-weight: bold;
+    color: #fff !important;
+    text-transform: uppercase !important;
+    text-align: center !important;
+    width: 80%;
+    position: relative;
+    left: 5%;
+    padding: 0.5%;
+    margin-top: 1%;
+}
